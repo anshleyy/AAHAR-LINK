@@ -61,7 +61,7 @@ Additional libraries/tools used:
   Anshley Mukherjee 🐻
 </p>
 <p align="center">
-  Amsiha Shaw 🐨
+  Amisha Shaw 🐨
 </p>
 <p align="center">
   Sukanya Dasgupta 😸
